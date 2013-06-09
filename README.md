@@ -24,5 +24,3 @@ If you find any bug or have any comment, please let me know (f.besse@cs.ucl.ac.u
 TODO:
 - Add post-processing to stereo
 - Add CRF weights to stereo
-
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike license](http://creativecommons.org/licenses/by-nc-sa/3.0/).
