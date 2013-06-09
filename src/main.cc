@@ -272,11 +272,8 @@ void load(const Parameters& parameters, const std::string& filename)
     std::cerr << "Error: unknown application" << std::endl;
     return;
   }
-  
-  
-  
-  fs.close();
 
+  fs.close();
 }
 
 //------------------------------------------------------------------------------

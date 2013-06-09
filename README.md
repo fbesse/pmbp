@@ -22,4 +22,5 @@ You can use CMake to compile PMBP. It uses the **CImg** library, which is includ
 If you find any bug or have any comment, please let me know (f.besse@cs.ucl.ac.uk).
 
 TODO:
-- Add post-processing for stereo
+- Add post-processing to stereo
+- Add CRF weights to stereo
