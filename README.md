@@ -25,8 +25,12 @@ TODO:
 - Add post-processing to stereo
 - Add CRF weights to stereo
 
+---------
+
 Copyright (c) 2014, Frederic Besse
 All rights reserved.
+
+BSD LICENSE
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
