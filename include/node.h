@@ -64,9 +64,7 @@ public:
   }
   
   void NormalizeFoundation(Direction direction){
-    for(int i=0; i<foundations.size(); ++i){
-      foundations[i].Normalize();
-    }
+    foundations[direction].Normalize();
   }
  
   State const* GetMinValueParticle() const{
